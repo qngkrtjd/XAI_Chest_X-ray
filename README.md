@@ -14,26 +14,26 @@ ViT 모델을 기반으로 한 chest x-ray 질병 진단에도 CNN 모델에 사
 
 ## 2. Related Works
 ### 2.1 ViT for Thorax Disease Classification
-<b>Delving into Masked Autoencoders for Multi-Label Thorax Disease Classification</b> <br/>
-[Junfei Xiao](https://lambert-x.github.io/), [Yutong Bai](https://scholar.google.com/citations?user=N1-l4GsAAAAJ&hl=en), [Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=en&oi=ao), [Zongwei Zhou](https://www.zongweiz.com/) <br/>
+_<b>Delving into Masked Autoencoders for Multi-Label Thorax Disease Classification</b>_<br/>
+Junfei Xiao, Yutong Bai, Alan Yuille, Zongwei Zhou<br/>
 Johns Hopkins University <br/>
 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023 <br/>
 [paper](https://arxiv.org/abs/2210.12843) | [code](https://github.com/lambert-x/medical_mae)
 
 ### 2.2 SmoothGrad
-<b>Smoothgrad: removing noise by adding noise.</b> <br/>
-Smilkow, [Daniel], [Nikhil Thorat], [Been Kim], [Fernanda Viégas], [Martin Wattenberg]<br/>
+_<b>Smoothgrad: removing noise by adding noise._ </b> <br/>
+Smilkow, Daniel, Nikhil Thorat, Been Kim, Fernanda Viégas, Martin Wattenberg<br/>
 ICML Workshop 2017<br/>
 [paper](https://arxiv.org/abs/1706.03825)
 
 ### 2.3 Extremal Perturabtion
-<b>Understanding deep networks via extremal perturbations and smooth masks.</b> <br/>
+_<b>Understanding deep networks via extremal perturbations and smooth masks.</b>_ <br/>
 Fong, Ruth, Mandela Patrick, and Andrea Vedaldi<br/>
 In Proceedings of the IEEE/CVF international conference on computer vision, pp. 2950-2958. 2019<br/>
 [paper](https://arxiv.org/abs/1910.08485)
 
 ### 2.4 Grad-CAM
-<b>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization.</b><br/>
+_<b>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization.</b>_ <br/>
 Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, DviParikh, Dhruv Batra<br/>
 ICCV 2017<br/>
 [paper](https://arxiv.org/abs/1610.02391)
