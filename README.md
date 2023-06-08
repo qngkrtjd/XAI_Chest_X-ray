@@ -52,13 +52,13 @@ Pleural_Thickening; 14 Hernia)_
 ## 4. Result
 <img src="https://github.com/qngkrtjd/XAI_Chest_X-ray/assets/98075749/63ea11bb-8e50-4821-b19c-2213b9ccdb44">
 
-|Insertion auc|SmoothGrad|Extremal Perturbation|Grad-CAM|
+|**Insertion auc**|SmoothGrad|Extremal Perturbation|Grad-CAM|
 |:------:|---:|---:|---:|
 |Densenet|0.294|0.378|0.294|
-|viT|0.338|*0.457*|0.338|
+|viT|0.338|**0.457**|0.338|
 
-|Deletion auc|SmoothGrad|Extremal Perturbation|Grad-CAM|
+|**Deletion auc**|SmoothGrad|Extremal Perturbation|Grad-CAM|
 |:------:|---:|---:|---:|
-|Densenet|0.218|*0.145*|0.218|
+|Densenet|0.218|**0.145**|0.218|
 |ViT|0.368|0.291|0.368|
   
