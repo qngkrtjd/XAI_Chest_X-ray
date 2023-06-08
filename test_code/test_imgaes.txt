@@ -1,0 +1,1320 @@
+Image: E:/nih/nih/images_006/images/00013285_026.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_009/images/00020277_001.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_011/images/00025368_018.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_012/images/00028607_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00012123_001.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_001/images/00000845_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00012973_005.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_002/images/00003333_002.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_011/images/00026136_002.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_006/images/00013337_000.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_006/images/00012021_081.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_007/images/00015090_006.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_007/images/00015831_011.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_005/images/00011557_003.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00012094_047.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_010/images/00023116_005.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_009/images/00019766_023.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00016414_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_003/images/00003973_008.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_005/images/00011157_001.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_010/images/00022470_006.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_011/images/00027833_022.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_008/images/00017972_032.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_011/images/00025707_015.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_012/images/00028873_009.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_009/images/00019373_058.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_009/images/00020393_001.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_010/images/00022369_013.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00017214_015.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_008/images/00017500_002.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_002/images/00002583_014.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_009/images/00018657_003.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_012/images/00029894_000.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_009/images/00019767_016.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_005/images/00009745_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00020986_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_005/images/00010277_000.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_007/images/00015831_008.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_005/images/00011450_000.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_012/images/00029200_006.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_007/images/00013911_021.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_002/images/00002176_005.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_003/images/00004893_085.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00023026_008.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_001/images/00000830_000.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_001/images/00000583_008.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_004/images/00008005_004.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_006/images/00013751_003.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_005/images/00010828_039.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_007/images/00014706_007.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_009/images/00020124_003.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_011/images/00025686_000.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_009/images/00020146_005.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_012/images/00030636_004.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_010/images/00021710_003.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_009/images/00020213_078.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_003/images/00004547_003.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_005/images/00011502_001.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_011/images/00025228_007.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_002/images/00001437_012.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_012/images/00028518_021.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_004/images/00007120_009.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_009/images/00018427_004.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_008/images/00016291_002.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_007/images/00013922_022.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_004/images/00007037_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_002/images/00001558_016.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_002/images/00003440_000.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_010/images/00022192_003.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_005/images/00009342_000.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_007/images/00015078_013.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_009/images/00020000_000.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00016990_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00022572_063.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_010/images/00021132_000.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_012/images/00029088_023.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_012/images/00029861_013.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_006/images/00011857_001.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_003/images/00004461_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00023093_009.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_009/images/00019363_043.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_009/images/00019150_002.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_005/images/00010805_049.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_011/images/00025954_025.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_008/images/00016490_011.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_004/images/00007043_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_002/images/00002435_005.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_004/images/00009166_004.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_009/images/00020857_008.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_010/images/00021840_016.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00017514_008.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_003/images/00004342_023.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_007/images/00015440_000.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_006/images/00012021_054.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_012/images/00029579_014.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_003/images/00004342_020.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00021443_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_008/images/00016606_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00011832_002.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_005/images/00010936_016.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_011/images/00026920_000.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_003/images/00004533_014.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00022899_000.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_001/images/00000147_001.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_011/images/00026695_000.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_009/images/00019271_030.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_002/images/00002578_000.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_008/images/00017138_037.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00016705_006.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_009/images/00019018_007.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_001/images/00000661_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_003/images/00005066_005.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_004/images/00008716_000.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_009/images/00018814_000.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_010/images/00022611_001.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_012/images/00028628_015.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00018366_029.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_006/images/00011827_003.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_012/images/00028876_027.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_002/images/00001534_005.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00012288_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00022706_001.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_008/images/00018101_012.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_007/images/00014251_029.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_011/images/00025732_004.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_011/images/00025664_002.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_007/images/00014149_018.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00016564_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_008/images/00016937_014.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_010/images/00021009_001.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_012/images/00030413_003.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_009/images/00020318_022.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_008/images/00017188_002.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_003/images/00005827_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00023093_007.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_004/images/00007551_020.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_012/images/00029391_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_012/images/00028924_009.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_006/images/00012505_007.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_002/images/00002395_007.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00018253_059.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_006/images/00012793_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_004/images/00006851_033.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_002/images/00001688_000.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_012/images/00028861_009.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_003/images/00004381_021.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_003/images/00004344_014.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_009/images/00019271_065.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_002/images/00001369_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00021711_014.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_010/images/00021896_003.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_008/images/00017981_014.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_007/images/00015400_001.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_009/images/00019271_064.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_010/images/00021201_010.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_009/images/00020274_007.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_002/images/00002350_001.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_002/images/00003787_003.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_011/images/00028027_000.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_012/images/00029532_014.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_005/images/00009889_018.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_011/images/00026194_010.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_006/images/00011925_072.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_009/images/00019426_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00012174_000.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_005/images/00009403_002.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_005/images/00010815_006.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_010/images/00021782_028.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_012/images/00028974_016.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_004/images/00008814_010.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00017582_003.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_003/images/00004344_046.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00012364_045.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_008/images/00016786_001.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_003/images/00006096_010.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_011/images/00026753_008.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00017511_006.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_007/images/00015262_005.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_011/images/00027556_007.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_001/images/00000211_019.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00011831_010.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_003/images/00005532_016.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_012/images/00030128_002.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_010/images/00021926_007.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_006/images/00013635_002.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_009/images/00019177_000.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_008/images/00018253_054.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_012/images/00029039_020.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_002/images/00003803_010.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_009/images/00020673_005.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_009/images/00018412_001.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_007/images/00014015_003.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_002/images/00001373_009.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_011/images/00025529_018.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_002/images/00002176_007.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_008/images/00016417_008.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_003/images/00005066_030.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_005/images/00010071_008.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_003/images/00004534_001.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00021179_011.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_007/images/00014976_003.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_005/images/00011291_003.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_008/images/00017448_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_008/images/00017098_003.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_008/images/00018233_057.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00021845_001.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_011/images/00026261_001.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_003/images/00006304_060.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_012/images/00030106_008.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_010/images/00023176_010.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_007/images/00015425_012.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_001/images/00000468_041.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_011/images/00027441_002.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_003/images/00004344_013.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_006/images/00013670_151.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_009/images/00019651_002.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_007/images/00013993_083.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_005/images/00009437_008.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_008/images/00018387_030.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_009/images/00018865_008.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_001/images/00000377_004.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_010/images/00021181_002.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_004/images/00007471_003.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_006/images/00013187_002.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_008/images/00017714_009.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_012/images/00028774_047.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_011/images/00027479_013.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_003/images/00004342_002.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_009/images/00019924_020.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_005/images/00010478_012.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_012/images/00030573_002.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_012/images/00029259_027.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_012/images/00030606_006.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_007/images/00015895_017.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_011/images/00025252_053.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_012/images/00029596_018.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_004/images/00006736_000.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_012/images/00028285_014.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_009/images/00019187_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_011/images/00026555_001.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_004/images/00008386_000.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_012/images/00029807_003.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_008/images/00016837_002.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_006/images/00013673_001.png
+True Label: Nodule
+Vit Predicted Label: Nodule
+Densenet Predicted Label: Nodule
+---
+Image: E:/nih/nih/images_011/images/00025221_001.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_009/images/00019124_006.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_006/images/00012829_004.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_009/images/00018921_038.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_012/images/00030323_028.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_012/images/00029431_000.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_012/images/00029588_004.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_012/images/00028265_007.png
+True Label: Mass
+Vit Predicted Label: Mass
+Densenet Predicted Label: Mass
+---
+Image: E:/nih/nih/images_008/images/00017877_001.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_008/images/00017544_003.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_005/images/00011366_002.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_011/images/00026087_000.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_008/images/00016972_025.png
+True Label: Effusion
+Vit Predicted Label: Effusion
+Densenet Predicted Label: Effusion
+---
+Image: E:/nih/nih/images_005/images/00011463_002.png
+True Label: Cardiomegaly
+Vit Predicted Label: Cardiomegaly
+Densenet Predicted Label: Cardiomegaly
+---
+Image: E:/nih/nih/images_004/images/00007710_000.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_012/images/00029075_013.png
+True Label: Pneumothorax
+Vit Predicted Label: Pneumothorax
+Densenet Predicted Label: Pneumothorax
+---
+Image: E:/nih/nih/images_012/images/00028620_000.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_006/images/00013471_029.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
+Image: E:/nih/nih/images_006/images/00013685_000.png
+True Label: Atelectasis
+Vit Predicted Label: Atelectasis
+Densenet Predicted Label: Atelectasis
+---
+Image: E:/nih/nih/images_012/images/00029404_004.png
+True Label: Infiltrate
+Vit Predicted Label: Infiltrate
+Densenet Predicted Label: Infiltrate
+---
