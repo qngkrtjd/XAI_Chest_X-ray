@@ -50,7 +50,7 @@ Pleural_Thickening; 14 Hernia)_
 + 1,000 images에 대한 bounding box 제공 (BBox_List_2017.csv)
 
 ## 4. Result
-<img src="https://github.com/qngkrtjd/XAI_Chest_X-ray/assets/98075749/63ea11bb-8e50-4821-b19c-2213b9ccdb44">
+<img src="https://github.com/qngkrtjd/XAI_Chest_X-ray/assets/98075749/87e5e81f-1459-46a9-9187-2dbe1cc9a138">
 
 |**Insertion auc**|SmoothGrad|Extremal Perturbation|Grad-CAM|
 |:------:|---:|---:|---:|
