@@ -1,6 +1,6 @@
 # **XAI Chest X-ray**
 
-## 1 About The Project
+## 1. About The Project
 ViT 모델을 기반으로 한 chest x-ray 질병 진단에도 CNN 모델에 사용해왔던 attribution method 를 적용할 수 있는지, 적용 가능하다면 어떠한 방식이 ViT 모델에서 좋은 성능을 나타내는 지 연구한다.
 </br>
 </br>
