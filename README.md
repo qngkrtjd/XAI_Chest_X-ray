@@ -5,7 +5,7 @@ ViT 모델을 기반으로 한 chest x-ray 질병 진단에도 CNN 모델에 사
 </br>
 </br>
 <b>Goals</b></br>
-+ Masked Autoencoders를 사용해 pre-training 한 ViT 모델의 fine-tuning 과정을 이해하고 Classification 분야에 ViT 모델을 적용한다.
++ ViT 모델 기반 medical image classification을 수행한다.
 
 + Gradient 방식의 SmoothGrad, Perturbation 방식의 Extremal Perturbation, Activation 방식의 Grad-CAM 3가지를 Densenet과 ViT 모델에 적용하여 chest x-ray disease classification 의 판단 근거를 시각화한다.
 
